@@ -1,2 +1,2 @@
 # Portifolio
-Site de teste que fiz para um curso de HTML e CSS.
+Site desenvolvivido com intuito de demonstrar minhas habilidades com HTML e CSS. Além de servir como curriculo online. 
